@@ -1,4 +1,4 @@
-import com.domain.Person;
+import domain.Person;
 
 import java.util.ArrayList;
 import java.util.Arrays;
