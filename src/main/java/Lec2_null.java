@@ -1,5 +1,3 @@
-package com.java;
-
 public class Lec2_null {
 
     public static void main(String[] args) {

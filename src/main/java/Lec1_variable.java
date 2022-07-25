@@ -1,11 +1,10 @@
-package com.java.lec1;
-import com.java.domain.Person;
+import com.domain.Person;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Variable {
+public class Lec1_variable {
 
     public static void main(String[] args) {
         long number1 = 10L;
