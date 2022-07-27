@@ -1,5 +1,3 @@
-package com.kotlin
-
 /**
  * Created by jihun.park@navercorp.com on 2022-06-29.
  */

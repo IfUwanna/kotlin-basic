@@ -1,7 +1,4 @@
-package com.kotlin
-
-import com.domain.Person
-
+import domain.Person
 
 fun main(){
 

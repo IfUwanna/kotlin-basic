@@ -1,5 +1,3 @@
-package com.kotlin
-
 fun main(){
 
 }
