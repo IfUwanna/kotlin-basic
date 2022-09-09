@@ -16,7 +16,7 @@ public class Lec2_null {
         return str.startsWith("A");
     }
 
-    // 2. Boolean Null반환
+    // 2. Boolean Null
     public Boolean startsWithA2(String str){
         if(str == null){
             return null;

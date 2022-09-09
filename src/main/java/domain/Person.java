@@ -1,5 +1,8 @@
 package domain;
 
+import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
+
 /**
  * Created by jihun.park@navercorp.com on 2022-07-26.
  */
@@ -11,6 +14,7 @@ public class Person {
         this.name = name;
     }
 
+    @Nullable //@NotNull
     public String getName() {
         return name;
     }
