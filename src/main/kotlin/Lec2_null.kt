@@ -7,7 +7,6 @@ import domain.Person
 //}
 
 fun main(){
-
     /** safe call */
     var str : String? = "ABC"
     str?.length // str이 null이 아닐때만 실행 아닌경우 null 반환

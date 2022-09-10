@@ -18,7 +18,7 @@ fun main(){
     nullableNumber = null;
 
     /** 객체의 인스턴스화 */
-    val person = Person("박지훈");  // new 키워드 사용하지 않음
+    val person = Person("박지훈",10);  // new 키워드 사용하지 않음
 
 //    val numberArray = arrayOf(1,2,3);
 //    val numberList:List<Int> = listOf<Int>(1,2,3); // listOf 불변
